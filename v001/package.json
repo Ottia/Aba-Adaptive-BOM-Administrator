@@ -18,7 +18,7 @@
     "package": "npm-run-all clean build pack"
   },
   "devDependencies": {
-    "electron": "^1.7.9",
+    "electron": "^39.2.7",
     "gulp": "^4.0.0",
     "gulp-babel": "^7.0.1",
     "gulp-concat": "^2.6.1",
@@ -27,7 +27,7 @@
     "jshint": "^2.9.5",
     "gulp-rename": "^1.3.0",
     "gulp-uglify": "^3.0.0",
-    "react-scripts": "^1.1.4"
+    "react-scripts": "^5.0.1"
   },
   "dependencies": {
     "react": "^16.1.1",
